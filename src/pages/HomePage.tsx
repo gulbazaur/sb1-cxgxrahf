@@ -12,8 +12,7 @@ export function HomePage() {
             OASIS
           </h1>
           <p className="text-xl text-gray-600 text-center">
-            Your comprehensive guide to understanding various categories and topics. 
-            Explore in-depth information, guides, and expert insights across multiple domains.
+            Das OASIS Spielersperrsystem (Onlineabfrage Spielerstatus) bildet einen Kernbestandteil des deutschen Glücksspielstaatsvertrags 2021 (GlüStV 2021) und dient maßgeblich dem Spielerschutz sowie der Prävention von Spielsucht, indem es eine bundesweit zentrale Datenbank für den Ausschluss gefährdeter Personen von legalen Glücksspielangeboten bereitstellt. Für alle in Deutschland lizenzierten Anbieter – seien es Online-Casinos, Sportwettenanbieter, Spielhallen oder Gaststätten mit Spielautomaten – ist die Anbindung und die Überprüfung des Spielerstatus über OASIS vor der Spielteilnahme verpflichtend vorgeschrieben, um sicherzustellen, dass eingetragene Personen effektiv vom Spiel ausgeschlossen werden. Das System ermöglicht sowohl die freiwillige Selbstsperre durch den Spieler (ab 3 Monaten Dauer) als auch eine Fremdsperre durch Dritte oder Anbieter (mindestens 1 Jahr), wobei die Aufhebung einer Sperre stets einen formellen Antrag nach Ablauf der Mindestdauer erfordert und nicht automatisch erfolgt, was die Wichtigkeit des verantwortungsbewussten Spielens im regulierten Markt unterstreicht und die Notwendigkeit umfassender Informationen über Funktionsweise, Verfahren und Hintergründe von OASIS für Spieler und Interessierte betont.
           </p>
         </div>
       </div>
