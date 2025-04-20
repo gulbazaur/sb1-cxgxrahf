@@ -9,7 +9,7 @@ export function HomePage() {
       <div className="w-full bg-white py-16">
         <div className="px-4 sm:px-6 lg:px-8">
           <h1 className="text-4xl font-bold text-gray-900 mb-4 text-center">
-            Welcome to CategoryHub
+            OASIS
           </h1>
           <p className="text-xl text-gray-600 text-center">
             Your comprehensive guide to understanding various categories and topics. 
